@@ -1,0 +1,16 @@
+2025-06-15T17:26:59.989Z  Current Msg memory Usage : 28.36}2025-06-15T17:27:02.989Z  Current Msg memory Usage : 28.43}2025-06-15T17:27:05.426Z  Application Started
+2025-06-15T17:27:05.427Z  Application Event Occurred
+2025-06-15T17:27:08.428Z  Current memory usage: 28.46%
+2025-06-15T17:27:11.428Z  Current memory usage: 28.48%
+2025-06-15T17:27:14.435Z  Current memory usage: 28.20%
+2025-06-15T17:27:17.443Z  Current memory usage: 28.31%
+2025-06-15T17:27:20.458Z  Current memory usage: 28.35%
+2025-06-15T17:27:23.471Z  Current memory usage: 28.51%
+2025-06-15T17:27:26.478Z  Current memory usage: 28.66%
+2025-06-15T17:27:29.485Z  Current memory usage: 28.49%
+2025-06-15T17:27:32.487Z  Current memory usage: 28.47%
+2025-06-15T17:27:35.495Z  Current memory usage: 28.45%
+2025-06-15T17:27:38.501Z  Current memory usage: 28.59%
+2025-06-15T17:27:41.516Z  Current memory usage: 28.70%
+2025-06-15T17:27:44.521Z  Current memory usage: 28.72%
+2025-06-15T17:27:47.531Z  Current memory usage: 28.66%
