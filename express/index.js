@@ -1,7 +1,8 @@
 import express from 'express'
+import 'dotenv/config'
 const app = express()
 
-const port = 3001
+const port = process.env.PORT1 || process.env.PORT2
 
 // app.get('/', (req, res) => {
 //     res.send('HOMEPAGE')
